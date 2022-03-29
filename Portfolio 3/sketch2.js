@@ -1,7 +1,7 @@
 let img;
 
 function preload() {
-  img = loadImage('images/palmtrees.jpg');
+  img = loadImage('images/paris.jpg');
 }
 
 function setup() {
